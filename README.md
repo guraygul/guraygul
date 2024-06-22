@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Music**
 
-- 📫 How to reach me **guraygul59@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:guraygul59@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="your-email@example.com"/></a>
